@@ -9,7 +9,6 @@ nav {
     font-weight: 10px;
     width: 100%;
     padding-bottom: 20px;
-    
 }
 
 body {
@@ -17,13 +16,13 @@ body {
     padding: 0px;
     background-color: #6EAA78;
 }
+
 .navigator h1{
     background-color: #C6C86C;
     color: #53541E;
     border-radius: 20px;
     padding-left: 20px;
     padding-top: 15px;
-
 }
 
 .menu {
