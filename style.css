@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    font-family:"Poppins";
+}
+nav {
+    background-color: #C6C86C;
+    text-align: left;
+    font-size: 25px;
+    font-weight: 10px;
+    width: 100%;
+    padding-bottom: 20px;
+    
+}
+
+body {
+    margin: auto;
+    padding: 0px;
+    background-color: #6EAA78;
+}
+.navigator h1{
+    background-color: #C6C86C;
+    color: #53541E;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-top: 15px;
+
+}
+
+.menu {
+    display: flex;
+    float: right;
+    margin-bottom: 160px;
+    margin-right: 100px;
+    margin-top: -50px;
+}
+
+.register-menu {
+    display: flex;
+}
