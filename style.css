@@ -5,7 +5,7 @@
 nav {
     background-color: #C6C86C;
     text-align: left;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 10px;
     width: 100%;
     padding: 15px;
@@ -14,9 +14,15 @@ nav {
 }
 
 nav a{
-    margin-right: 15px;
+    margin-right: 20px;
+
 }
 
+.menu a{
+    background-color: #53541E;
+    color: #ffffff;
+    border-radius: 20px;
+}
 body {
     margin: auto;
     padding: 0px;
@@ -29,21 +35,4 @@ body {
     border-radius: 20px;
     padding-left: 40px;
     padding-top: 15px;
-}
-
-.menu {
-    display: flex;
-    float: right;
-    margin-bottom: 160px;
-    margin-right: 100px;
-    margin-top: -50px;
-}
-
-.menu a {
-    display: block;
-  text-align: left;
-  padding-left: 50px;
-  color: white;
-  font-size: 20px;
-
 }
